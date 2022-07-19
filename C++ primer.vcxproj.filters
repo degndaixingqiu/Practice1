@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="helloworld.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="标识符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据类型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="输入.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="算数运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="前置后置递增.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="赋值运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="比较运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="逻辑运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="if.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="if练习三只小猪.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="三目运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="switch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="while.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="循环练习-猜数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="do-while.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="do-while练习水仙花数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="for.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="for练习敲桌子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="嵌套循环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="嵌套循环-九九乘法表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="break使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="continue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="一维数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组名用途.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="一维数组练习案例-五只小猪.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="一维数组练习案例-元素逆置.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.2.2冒泡排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.3二维数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.3.1二维数组数组名.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.3.3二维数组案例考试成绩统计.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.1函数定义.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.2函数调用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.3函数值传递.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.4四种常见样式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.5函数的声明.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6.6函数分文件编写.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="my_swap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.1指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.3指针所占内存空间.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.4空指针野指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.5const修饰指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.6指针和数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.7指针和函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7.8指针数组核函数练习.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.1结构体.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.3 结构体数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.4 结构体指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.5结构体嵌套结构体.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.6结构体做函数参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.6test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.7结构体const.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.8my_结构体案例1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.8结构体案例1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8.9结构体案例2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="my_swap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
